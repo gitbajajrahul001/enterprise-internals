@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stage 3
+title: Current-State Assessment
 ---
 
 # Stage 3: Current-State Assessment
@@ -89,9 +89,7 @@ Typical issues:
 - Incomplete cost data
 - “Tribal knowledge” instead of documented knowledge
 
-> 
-> **Remember:** If the current-state assessment is weak, the Request for Proposal will be weak.
-> 
+**Remember**: If the current-state assessment is weak, the Request for Proposal will be weak.
 
 ---
 

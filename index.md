@@ -25,7 +25,7 @@ then this is where everything comes together — helping you think like a **tech
 
 ---
 
-- [Enterprise Sourcing: Inside the RFP Process](rfp)
+- [Enterprise Sourcing: The RFP Lifecycle Explained](rfp)
 - [Enterprise Cloud: Strategy to Execution](cloud-adoption-strategy)
 - [Enterprise Application - Architecture Insights](application-architecture) 
 - [Enterprise Cloud Network - Architecture Insights](network-architecture)

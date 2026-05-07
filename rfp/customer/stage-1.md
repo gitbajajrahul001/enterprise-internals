@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stage 1
+title: Trigger and Problem Recognition
 ---
 
 # Stage 1: Trigger and Problem Recognition
