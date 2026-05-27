@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sourcing Strategy 
-
+nav_exclude: true
 ---
 
 # 🏢 Stage 5 — Sourcing Strategy
