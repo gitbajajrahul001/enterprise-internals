@@ -308,7 +308,7 @@ Because AI systems depend heavily on:
 This is causing a major resurgence in:
 - information architecture,
 - metadata strategy,
-- taxonomy design,
+- taxonomy(covered later`z) design,
 - and enterprise knowledge engineering.
 
 ---
