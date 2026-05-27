@@ -18,7 +18,7 @@ The focus is not just cloud technology, but how large organizations actually ado
 
 ## Structure
 
-### Foundations
+### **Foundations**
 Core cloud adoption phases and transformation concepts.
 
 ```text
@@ -29,14 +29,14 @@ Strategy → Plan → Ready → Adopt
 
 ---
 
-### Enterprise Case Study
+### **Enterprise Case Study**
 A realistic transformation journey following ACME Corp through each phase of adoption.
 
 [Open Enterprise Case Study ➡](case-study/index.md)
 
 ---
 
-### Deep Dives
+### **Deep Dives**
 Focused topics covering architecture, governance, IAM, FinOps, landing zones, and operating models.
 
 [Open Deep Dives ➡](deep-dives/index.md)

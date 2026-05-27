@@ -47,6 +47,6 @@ The goal of this section is to explain:
 
 ## Start Here
 
-[Strategy ➡](strategy.md)
+[Strategy ➡](strategy-phase.md)
 
 ---
