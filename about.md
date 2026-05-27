@@ -2,68 +2,57 @@
 layout: default
 title: About Me
 ---
+
 # About Me
 
-My name is Rahul Bajaj. I work at the intersection of **enterprise architecture, cloud transformation, and platform engineering**, with over 17 years of experience helping large organizations design and evolve their technology landscape.
+I’m Rahul Bajaj — an enterprise architecture and cloud transformation professional with 17+ years of experience working across Banking, Pharma, Manufacturing, and Energy sectors.
 
-Over the years, I’ve worked across Pharma, Banking, Manufacturing, and Energy sectors, partnering with global enterprises on initiatives ranging from cloud adoption and platform engineering to large-scale infrastructure modernization.
+My work focuses on how large-scale enterprise systems evolve across:
+- cloud platforms
+- governance
+- automation
+- platform engineering
+- operational transformation
+- enterprise AI adoption
 
----
+Over the years, I’ve realized that enterprise challenges are rarely isolated technical problems.
 
-## 🧭 What I Really Do
+They are usually a combination of:
+- architecture trade-offs
+- operational realities
+- governance constraints
+- organizational complexity
+- business priorities
 
-At a high level, my work focuses on one core problem - *How do you move from fragmented IT environments to structured, scalable, and operable enterprise platforms?*
-
-This involves:
-- translating business objectives into architectural decisions  
-- designing cloud and hybrid platforms that actually work in practice  
-- enabling automation-driven and policy-governed environments  
-- aligning technology with operating models and execution realities  
-
----
-
-## 🧱 Areas I Work In
-
-My experience spans across:
-
-- **Cloud Platforms** — Azure, AWS, hybrid cloud architectures  
-- **Platform Engineering** — landing zones, automation frameworks, operating models  
-- **Enterprise Networking** — hybrid connectivity, segmentation, large-scale network design  
-- **Infrastructure Automation** — IaC, orchestration, and scalable provisioning models  
-- **Architecture & Strategy** — bridging business goals with technical execution  
+Enterprise Mechanics is my attempt to document and simplify those patterns through practical, experience-driven thinking.
 
 ---
 
-## 📚 Why This Platform Exists
+# Areas of Interest
 
-Over time, I realized that most available content is either:
-
-- too theoretical 
-- too certification focused
-- too tool-specific 
-- or disconnected from real-world execution  
-
-This platform is an attempt to bridge that gap by sharing:
-
-- structured ways of thinking  
-- real-world decision patterns  
-- how different domains connect across the enterprise  
+- Enterprise Cloud Transformation
+- Platform Engineering & Automation
+- Enterprise AI & Gen-AI Adoption
+- Landing Zones & Governance
+- Enterprise Architecture
+- Operating Models & Decision-Making
+- Observability & Operational Maturity
 
 ---
 
-## 🎯 What You Can Expect Here
+# Connect
 
-If you follow the content here, you’ll not just learn:
+## LinkedIn
+[rahulbajaj1986](https://www.linkedin.com/in/rahulbajaj1986)
 
-- what needs to be done  
+## GitHub
+[gitbajajrahul001](https://github.com/gitbajajrahul001)
 
-but more importantly:
-
-- how decisions are made
-- why certain approaches work (or fail)
-- how enterprise systems actually evolve in practice
+## Email
+bajajrahul001@gmail.com
 
 ---
->
-> This is not a collection of tutorials — it is my reflection of how enterprise architecture works in the real world.
->
+
+> I’m less interested in isolated technologies and more interested in how enterprise systems behave, scale, fail, evolve, and operate in the real world.
+
+---
