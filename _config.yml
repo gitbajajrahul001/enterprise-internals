@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 
 title: Enterprise Mechanics
 
@@ -9,16 +9,22 @@ description: >-
 url: "https://gitbajajrahul001.github.io"
 baseurl: "/enterprise-mechanics"
 
-sass:
-  style: compressed
+color_scheme: dark
 
-header_pages:
-  - index.md
-  - about.md
+search_enabled: true
 
-markdown: kramdown
-
-plugins:
-  - jekyll-feed
+heading_anchors: true
 
 permalink: pretty
+
+aux_links:
+  GitHub Repository:
+    - "https://github.com/gitbajajrahul001/enterprise-mechanics"
+
+nav_enabled: true
+
+footer_content: "Enterprise Mechanics"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
