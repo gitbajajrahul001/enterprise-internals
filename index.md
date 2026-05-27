@@ -32,15 +32,15 @@ The content is designed to connect enterprise technology concepts with real-worl
 
 | Domain | Focus |
 |---|---|
-| Enterprise Cloud | Cloud transformation, landing zones, governance, migration |
-| Enterprise AI | Gen-AI, RAG, enterprise AI architecture and adoption |
-| Enterprise Security | IAM, governance, security architecture |
-| Enterprise Networking | Cloud and enterprise network architecture |
-| Enterprise Observability | Monitoring, telemetry, operational visibility |
-| Enterprise Applications | Enterprise application architecture patterns |
-| Enterprise Business | Business alignment and architecture thinking |
-| Enterprise Sourcing | RFP lifecycle and enterprise procurement |
-| Enterprise BCP | Resilience, continuity, and recovery strategy |
+| [Enterprise Cloud](docs/enterprise-cloud/index.md) | Cloud transformation, landing zones, governance, migration |
+| [Enterprise AI](docs/enterprise-ai/index.md) | Gen-AI, RAG, enterprise AI architecture and adoption |
+| [Enterprise Security](docs/enterprise-security/index.md) | IAM, governance, security architecture |
+| [Enterprise Networking](docs/enterprise-networking/index.md) | Cloud and enterprise network architecture |
+| [Enterprise Observability](docs/enterprise-observability/index.md) | Monitoring, telemetry, operational visibility |
+| [Enterprise Applications](docs/enterprise-applications/index.md) | Enterprise application architecture patterns |
+| [Enterprise Business](docs/enterprise-business/index.md) | Business alignment and architecture thinking |
+| [Enterprise Sourcing](docs/enterprise-sourcing/index.md) | RFP lifecycle and enterprise procurement |
+| [Enterprise BCP](docs/enterprise-bcp/index.md) | Resilience, continuity, and recovery strategy |
 
 ---
 
