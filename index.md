@@ -26,7 +26,10 @@ and enterprise AI adoption.
 </div>
 
 
-# 🧭 Knowledge Domains
+<div class="section-heading">
+<h2>Knowledge Domains</h2>
+<p>Structured enterprise technology domains connected through real-world architecture, operations, governance, and transformation thinking.</p>
+</div>
 
 <div class="domain-grid">
 
@@ -78,16 +81,20 @@ and enterprise AI adoption.
 </div>
 
 
----
+<div class="section-heading built-for-heading">
+<h2>Built For</h2>
+<p>Designed for professionals operating across enterprise-scale architecture, cloud, AI, and transformation ecosystems.</p>
+</div>
 
-# 🚀 Built For
+<div class="audience-grid">
 
-- Enterprise Architects
-- Cloud & AI Architects
-- Platform Engineers
-- Technology Consultants
-- Solution Architects
-- Engineering Leaders
-- Professionals moving toward enterprise-scale thinking
+<div class="audience-chip">Enterprise Architects</div>
+<div class="audience-chip">Cloud & AI Architects</div>
+<div class="audience-chip">Platform Engineers</div>
+<div class="audience-chip">Technology Consultants</div>
+<div class="audience-chip">Solution Architects</div>
+<div class="audience-chip">Engineering Leaders</div>
+<div class="audience-chip">Transformation Teams</div>
+<div class="audience-chip">Enterprise Technology Professionals</div>
 
----
+</div>
