@@ -198,3 +198,44 @@
   width: 480px;
   margin-bottom: 2rem;
 }
+/* Sidebar Navigation Styling */
+
+.site-nav {
+  padding-top: 2rem;
+}
+
+.site-nav .nav-list-link {
+  font-size: 0.98rem;
+  color: #4b5563;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  padding-left: 1rem;
+  border-radius: 10px;
+  margin-bottom: 0.25rem;
+  transition: all 0.2s ease;
+}
+
+.site-nav .nav-list-link:hover {
+  background-color: #f3f4f6;
+  color: #111827;
+  text-decoration: none;
+}
+
+.site-nav .nav-list-item .nav-list-link.active {
+  background: #eff6ff;
+  color: #2563eb;
+  font-weight: 600;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 750;
+  letter-spacing: -1px;
+  color: #111827 !important;
+  padding-left: 1rem;
+}
+
+.side-bar {
+  border-right: 1px solid #e5e7eb;
+  background: #fcfcfc;
+}
