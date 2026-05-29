@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Chapter 01 - Core Building Blocks
 parent: Enterprise AI
