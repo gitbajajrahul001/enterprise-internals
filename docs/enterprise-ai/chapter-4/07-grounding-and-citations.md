@@ -2,7 +2,7 @@
 layout: default
 title: 
 parent: Chapter 04 — Building AI Systems
-nav_order: 
+nav_exclude: true
 ---
 
 ---
