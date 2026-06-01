@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 3
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Open Models vs Closed Models
 > Understanding one of the most important strategic, technical, and economic battles shaping the future of AI.
 
@@ -648,4 +648,4 @@ The future of enterprise AI will likely be shaped not by one approach winning, b
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Frontier Models](02-structured-vs-unstructured-data.md) | [Model Weights➡](04-semantic-search.md)
+[⬅ Series Home](index.md) | [⬅Frontier Models](02-frontier-models.md) | [Model Weights➡](04-model-weights.md)

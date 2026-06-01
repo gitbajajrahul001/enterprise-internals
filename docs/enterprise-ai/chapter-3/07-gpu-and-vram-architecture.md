@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 7
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # GPU and VRAM Architecture
 > Understanding why GPUs became the foundation of modern AI and why VRAM is often more important than raw compute power.
 
@@ -821,4 +821,4 @@ As AI systems scale, organizations increasingly discover:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Quantization](06-chunking-strategies.md) | [Local LLMs➡](08-context-engineering.md)
+[⬅ Series Home](index.md) | [⬅Quantization](06-quantization.md) | [Local LLMs➡](08-local-llms.md)

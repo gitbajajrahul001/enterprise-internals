@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 8
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Local LLMs
 > Understanding why organizations are increasingly running AI models on their own infrastructure instead of consuming AI exclusively through cloud APIs.
 
@@ -733,4 +733,4 @@ The result is a growing shift toward:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅GPU and VRAM Architecture](07-metadata-and-grounding.md) | [Model Routing➡](09-memory-systems.md)
+[⬅ Series Home](index.md) | [⬅GPU and VRAM Architecture](07-gpu-and-vram-architecture.md) | [Model Routing➡](09-model-routing.md)

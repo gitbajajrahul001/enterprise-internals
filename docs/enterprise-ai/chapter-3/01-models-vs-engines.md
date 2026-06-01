@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 1
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Models vs Engines
 > Understanding one of the most misunderstood distinctions in modern AI systems.
 
@@ -610,4 +610,4 @@ Modern AI systems only become operational when:
 
 ---
 
-[⬅ Series Home](index.md) | [Frontier Models➡](02-structured-vs-unstructured-data.md)
+[⬅ Series Home](index.md) | [Frontier Models➡](02-frontier-models.md)

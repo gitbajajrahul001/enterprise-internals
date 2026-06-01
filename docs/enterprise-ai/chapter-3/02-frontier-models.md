@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Frontier Models
 > Understanding what frontier models are, why they matter, and why they are reshaping technology, economics, and infrastructure globally.
 
@@ -552,4 +552,4 @@ They matter because they shape:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Models vs Engines](01-the-data-problem.md) | [Open Models vs Closed Models➡](03-information-retrieval.md)
+[⬅ Series Home](index.md) | [⬅Models vs Engines](01-models-vs-engines.md) | [Open Models vs Closed Models➡](03-open-vs-closed-models.md)

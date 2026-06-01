@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 11
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # The Future of AI Infrastructure
 > Understanding where AI infrastructure is heading and why the next decade will be shaped as much by compute, memory, and orchestration as by model intelligence itself.
 
@@ -743,4 +743,4 @@ And just as cloud computing transformed infrastructure,
 
 ---
 
-[⬅ Series Home](index.md) | [⬅AI Economics](10-the-enterprise-knowledge-problem.md) | 
+[⬅ Series Home](index.md) | [⬅AI Economics](10-ai-economics.md) | 

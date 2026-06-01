@@ -6,7 +6,7 @@ nav_order: 10
 ---
 
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # AI Economics
 > Understanding why AI is increasingly becoming an economics problem rather than purely a technology problem.
 
@@ -786,4 +786,4 @@ As AI adoption scales, economic efficiency increasingly becomes:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Model Routing](09-memory-systems.md) | [The Future of AI Infrastructure➡](10-the-enterprise-knowledge-problem.md)
+[⬅ Series Home](index.md) | [⬅Model Routing](09-model-routing.md) | [The Future of AI Infrastructure➡](11-the-future-of-ai-infrastructure.md)

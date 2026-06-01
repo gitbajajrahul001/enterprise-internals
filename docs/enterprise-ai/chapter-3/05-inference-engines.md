@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 5
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Inference Engines
 > Understanding the runtime systems that transform static model weights into operational intelligence.
 
@@ -780,4 +780,4 @@ They become intelligent systems only when executed through an inference runtime.
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Model Weights](04-semantic-search.md) | [Quantization➡](06-chunking-strategies.md)
+[⬅ Series Home](index.md) | [⬅Model Weights](04-model-weights.md) | [Quantization➡](06-quantization.md)

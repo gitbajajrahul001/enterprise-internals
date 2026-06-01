@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 9
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Model Routing
 > Understanding how modern AI platforms intelligently choose the right model for the right task instead of sending every request to the most powerful model available.
 
@@ -731,4 +731,4 @@ It is choosing the right model for each request.
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Local LLMs](08-context-engineering.md) | [AI Economics➡](10-the-enterprise-knowledge-problem.md)
+[⬅ Series Home](index.md) | [⬅Local LLMs](08-local-llms.md) | [AI Economics➡](10-ai-economics.md)

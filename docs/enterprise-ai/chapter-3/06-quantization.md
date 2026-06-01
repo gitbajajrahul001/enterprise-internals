@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 6
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Quantization
 > Understanding how modern AI systems compress massive models so they can run efficiently on real-world hardware.
 
@@ -695,4 +695,5 @@ Without quantization:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Inference Engines](05-vector-databases.md) | [GPU and VRAM Architecture➡](07-metadata-and-grounding.md)
+[⬅ Series Home](index.md) | [⬅Inference Engines](05-inference-engines.md) | [GPU and VRAM Architecture➡](07-gpu-and-vram-architecture.md)
+

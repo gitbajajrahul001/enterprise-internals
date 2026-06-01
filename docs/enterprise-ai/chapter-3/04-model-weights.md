@@ -5,7 +5,7 @@ parent: Chapter 03 — Model and Hardware Ecosystem
 nav_order: 4
 ---
 
-# Chapter 3 — Model and Hardware Ecosystem
+
 # Model Weights
 > Understanding what model weights actually are and why they are the most valuable asset in modern AI systems.
 
@@ -637,4 +637,4 @@ Everything a model can do:
 ultimately emerges from the patterns embedded within those weights.
 ---
 
-[⬅ Series Home](index.md) | [⬅Open Models vs Closed Models](03-information-retrieval.md) | [Inference Engines➡](05-vector-databases.md)
+[⬅ Series Home](index.md) | [⬅Open Models vs Closed Models](03-open-vs-closed-models.md) | [Inference Engines➡](05-inference-engines.md)
