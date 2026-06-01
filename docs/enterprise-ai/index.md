@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enterprise AI
-nav_order: 11
+nav_order: 1
 has_children: true
 ---
 

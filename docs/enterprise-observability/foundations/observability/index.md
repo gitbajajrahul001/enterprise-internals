@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enterprise Observability
-nav_order: 10
+nav_order: 8
 has_children: true
 ---
 
