@@ -2,7 +2,7 @@
 layout: default
 title: 
 parent: Chapter 07 — The Future of Intelligent Systems
-nav_order: 
+nav_exclude: true
 ---
 
 ---

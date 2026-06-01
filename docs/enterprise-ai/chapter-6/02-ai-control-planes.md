@@ -2,7 +2,7 @@
 layout: default
 title: 
 parent: Chapter 06 — Enterprise AI Architecture
-nav_order: 
+nav_exclude: true
 ---
 
 ---

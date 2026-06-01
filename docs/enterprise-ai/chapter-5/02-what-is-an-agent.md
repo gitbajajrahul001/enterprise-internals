@@ -2,7 +2,7 @@
 layout: default
 title: 
 parent: Chapter 05 — Agents and Tool Use
-nav_order: 
+nav_exclude: true
 ---
 
 ---
