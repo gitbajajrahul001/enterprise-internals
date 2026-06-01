@@ -103,6 +103,7 @@ and enterprise AI adoption.
 
 </div>
 
+<!--
 <div class="section-heading featured-series-heading">
 <h2>Featured Series</h2>
 <p>Curated enterprise transformation and architecture series designed around real-world implementation, consulting, governance, and operational execution.</p>
@@ -131,3 +132,4 @@ and enterprise AI adoption.
 </div>
 
 </div>
+-->
