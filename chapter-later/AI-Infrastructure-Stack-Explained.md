@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # AI Infrastructure Stack Explained
 
 ## Purpose
