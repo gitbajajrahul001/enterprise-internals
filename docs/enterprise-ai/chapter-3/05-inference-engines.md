@@ -770,7 +770,9 @@ Operational intelligence emerges from the entire runtime stack.
 
 Inference engines fundamentally provide:
 
-> The runtime infrastructure responsible for loading model weights, executing transformer computations, managing memory, and serving responses at scale.
+> The runtime infrastructure responsible for loading model weights, executing transformer computations, managing memory, and serving responses at scale. 
+
+Remember - Embeddings, attention, transformer layers, and learned behavior belong to the model; KV cache, batching, quantization, memory management, and GPU optimization belong to the inference engine that runs the model.
 
 Without inference engines:
 
