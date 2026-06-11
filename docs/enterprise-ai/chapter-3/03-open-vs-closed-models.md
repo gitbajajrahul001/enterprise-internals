@@ -213,7 +213,7 @@ invest enormous resources into:
 This often results in:
 - very strong reasoning,
 - strong coding,
-- strong multimodality.
+- strong multimodality(covered later).
 
 ---
 
@@ -370,7 +370,7 @@ Per-Request Charges
 Organizations can:
 - fine-tune,
 - optimize,
-- quantize,
+- quantize(covered later),
 - and adapt models.
 
 This is impossible or limited with many closed systems.

@@ -462,7 +462,7 @@ Optimized for:
 - laptops,
 - CPUs,
 - edge devices,
-- quantized models.
+- quantized models(covered later).
 
 Very important in the local AI movement.
 

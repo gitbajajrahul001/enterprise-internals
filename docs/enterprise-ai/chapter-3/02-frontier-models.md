@@ -57,7 +57,7 @@ Examples today include models from:
 These models push the boundaries of:
 
 - reasoning,
-- multimodality,
+- multimodality(covered later),
 - coding,
 - planning,
 - tool usage,
@@ -288,7 +288,7 @@ Today the frontier race is being driven by organizations such as:
 Each is competing to improve:
 
 - reasoning,
-- multimodality,
+- multimodality(covered later),
 - inference efficiency,
 - agent capability,
 - and model intelligence.
@@ -541,7 +541,7 @@ Because modern AI progress increasingly depends on:
 
 Frontier models fundamentally represent:
 
-> The current leading edge of AI capability, pushing the boundaries of reasoning, multimodality, planning, coding, and intelligence itself.
+> The current leading edge of AI capability, pushing the boundaries of reasoning, multimodality(covered later), planning, coding, and intelligence itself.
 
 They matter because they shape:
 
