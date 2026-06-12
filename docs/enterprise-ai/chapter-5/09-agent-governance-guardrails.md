@@ -823,4 +823,4 @@ In enterprise AI:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅ Human-in-the-Loop➡](08-human-in-the-loop.md) | [Agent Failure Modes➡](10-agent-failure-modes.md)
+[⬅ Series Home](index.md) | [⬅ Human-in-the-Loop](08-human-in-the-loop.md) | [Agent Failure Modes➡](10-agent-failure-modes.md)
