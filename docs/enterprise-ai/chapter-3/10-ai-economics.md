@@ -786,4 +786,4 @@ As AI adoption scales, economic efficiency increasingly becomes:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Model Routing](09-model-routing.md) | [The Future of AI Infrastructure➡](11-the-future-of-ai-infrastructure.md)
+[⬅ Series Home](index.md) | [⬅Model Routing](09-model-routing.md) 
