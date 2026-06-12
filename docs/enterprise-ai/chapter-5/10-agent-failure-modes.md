@@ -861,5 +861,5 @@ In enterprise AI:
 
 ---
 
-[⬅ Series Home](index.md) | [⬅Agent Governance and Guardrails](09-agent-governance-guardrails.md)| [The Future of Agentic Systems➡](11-the-future-of-agentic-ai.md)
+[⬅ Series Home](index.md) | [⬅Agent Governance and Guardrails](09-agent-governance-guardrails.md)| [The Future of Agentic AI➡](11-the-future-of-agentic-ai.md)
 
