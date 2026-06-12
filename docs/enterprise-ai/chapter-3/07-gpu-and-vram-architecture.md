@@ -21,7 +21,7 @@ If you spend enough time around AI infrastructure, you will repeatedly hear:
 - VRAM
 - GPU clusters
 - Memory bottlenecks
-- CUDA
+- CUDA (Compute Unified Device Architecture)
 - Multi-GPU serving
 
 At first glance, this sounds like:

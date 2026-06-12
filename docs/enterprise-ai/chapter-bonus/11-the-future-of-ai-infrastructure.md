@@ -1,10 +1,7 @@
----
 layout: default
-title: The Future of AI Infrastructure
-parent: Chapter 03 — Model and Hardware Ecosystem
-nav_order: 11
+title: ACME Overview
+nav_exclude: true
 ---
-
 
 # The Future of AI Infrastructure
 > Understanding where AI infrastructure is heading and why the next decade will be shaped as much by compute, memory, and orchestration as by model intelligence itself.
